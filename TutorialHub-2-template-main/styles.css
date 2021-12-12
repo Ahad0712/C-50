@@ -1,7 +1,7 @@
 .menu {
   /* add correct code to place the menu correctly.*/
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   background-color: black;
   font-size: 30px;
   font-family: sans-serif;
@@ -23,7 +23,7 @@ body {
   border: 2px solid black;
   border-radius: 50px;
 }
-.origami {
+.languages {
   border-radius: 20px;
   background-color: white;
   margin: 20px;
